@@ -1,7 +1,7 @@
 # My-portfolio
 My portfolio Html / css
 Fernando - Multidisciplinary Developer and Writer
-Hello! I'm Fernando, a professional with over 20 years of experience in both the public and private sectors. In addition to my corporate background, I am a writer and a native Spanish speaker with an English proficiency level of 1B. I have authored several books on historical revisionism and a manual on archives available on Amazon Kinder.
+<p>Hello! I'm Fernando, a professional with over 20 years of experience in both the public and private sectors. </p> In addition to my corporate background, I am a writer and a native Spanish speaker with an English proficiency level of 1B. I have authored several books on historical revisionism and a manual on archives available on Amazon Kinder.
 
 Professional Experience
 Private Sector
