@@ -49,6 +49,7 @@ Contact
 Website: [fcas-technicalconsulting.com]  
 LinkedIn: [www.linkedin.com/in/fernando-césar-albar-sánchez-b075a1127]
 Email: [fcas-technicalconsulting@outlook.com]  [fer_museo@hotmail.com]
-Twitter: 
+Twitter:
+YouTube:  [https://www.youtube.com/channel/UC-xpnFfCB-dBMLXNTNQm9Jw]
 Thank you for visiting my page! Feel free to explore and learn more about my experience and skills.
 Telephone +543513393581 / +543517019774
